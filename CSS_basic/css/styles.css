@@ -1,0 +1,25 @@
+/* Tag Selector */
+h1{
+  color: orange;
+  font-size: 100px;
+}
+img:hover{
+  background-color: purple;
+}
+/* Class Selector*/
+.pizza
+{
+  background-color: green;
+}
+.burger
+{
+  background-color: orange;
+}
+.circular{
+  border-radius: 100%;
+}
+/* Id Selector*/
+#Heading
+{
+  color: green;
+}
